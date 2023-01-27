@@ -1,0 +1,16 @@
+{
+    "node_network":"liftnet",
+    "type":"lift",
+    "id":1,
+    "complete_up":1,
+    "complete_down":54,
+    "floors":{"substage":54,
+                "ground":46,
+                "level_1":40,
+                "level_2":32,
+                "flyfloor_2":24,
+                "flyfloor_3":13,
+                "grid":1},
+    "reversed":"false",
+    "default_speed":64
+}
